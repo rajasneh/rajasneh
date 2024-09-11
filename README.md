@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Problem Solving](in Java)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Java,Data structure and algorithms,C,HTML,CSS,JavaScript**
 
